@@ -1,6 +1,8 @@
 # -Python web crawler with BeautifulSoup &amp; Requests 
 import csv
+
 import requests
+
 from bs4 import BeautifulSoup
 
 headers = {'user-agent': 'Mozilla/5.0'}
